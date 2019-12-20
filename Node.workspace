@@ -1,0 +1,11 @@
+{
+ "NodeJS": {
+  "metadata": {
+   "version": "1.0",
+   "ide": "CodeLite",
+   "type": "NodeJS"
+  },
+  "folders": ["C:\\Users\\user1\\Documents\\Node"],
+  "m_showHiddenFiles": false
+ }
+}
